@@ -1,0 +1,70 @@
+body{
+    background-image:radial-gradient(#C88200, #C1AD00);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 800px;
+    margin: auto;
+}
+#global{
+    background-color: #E1CF68;
+    opacity: .75;
+}
+img{
+    justify-content: center;
+    width: 150px;
+    height: auto;
+}
+#header{
+    border-bottom: 1px solid grey;
+    text-align: center;
+    padding-bottom: 200px;
+}
+#section{
+    margin-right:15%;
+}
+h1{
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+h2{
+    color: #001461;
+    margin-left: 10%;
+}
+h3{
+    color: #002E83;
+    margin-left: 12%;
+}
+p{
+    text-align: justify;
+    font-weight: lighter;
+    margin-left: 12%;
+}
+#perspectives{
+    border-bottom:1px solid grey; ;
+}
+footer{
+    border-top: 1px solid grey;
+    margin-right: 0%;
+    margin-left: 10%;
+}
+#footer p{
+    font-style: italic;
+    margin-left: auto;
+    text-align: right;
+    font-size: small;
+}
+a{
+    color: grey;
+}
+a:hover {
+    color:orangered;
+    text-decoration: none;
+}
+#boutonVersHaut{
+    font-size: large;
+    text-decoration: none;
+}
+#boutonVersBas{
+    font-size: large;
+    text-decoration: none;
+
+}
